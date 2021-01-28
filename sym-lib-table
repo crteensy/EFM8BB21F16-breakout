@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EFM8BB21F16-breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/EFM8BB21F16-breakout-rescue.lib)(options "")(descr ""))
+)
